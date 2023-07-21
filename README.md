@@ -15,8 +15,15 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="15px" /> React
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="15px" /> Angular
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="15px" /> Git
-          
 
+## Status
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelbergantin&layout=compact&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachelbergantin&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rachelbergantin&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rachelbergantin&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachelbergantin&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rachelbergantin&theme=dracula&utcOffset=8)
 
 ## Portfolio
 [UI/UX Case Study](https://issuu.com/rachelbergantin/docs/portfolio) ⭐
+
